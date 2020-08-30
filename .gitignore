@@ -1,4 +1,5 @@
 .vscode/
+__pycache__/
 env/
 convergence.png
 DEV-PRED.png
@@ -22,3 +23,5 @@ checkpoints/
 MAE-HISTORY.png
 MSE-HISTORY.png
 PARAMS-CAL-HISTORY.csv
+
+# src

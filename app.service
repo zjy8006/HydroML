@@ -1,0 +1,13 @@
+[Unit]
+Description=uWSGI instance to serve HydroML
+After=network.target
+
+[Service]
+User=zjy8006
+Group=www-data
+WorkingDirectory=/home/zjy8006/HydroML
+Environment="PATH=/home/zjy8006/HydroML/env/bin"
+ExecStart=/home/zjy8006/HydroML/env/bin/uwsgi --ini app.ini
+
+[Install]
+WantedBy=multi-user.target
