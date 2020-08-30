@@ -1,0 +1,1 @@
+{"model_path": "D:\\WorkSpace\\MicroServices\\HydroMLForecastModels\\model\\HuaXian\\DailyFlow\\gbrt\\1-ahead\\", "n_calls": 100, "lags": 13, "cast_to_zero": true, "optimizer": "gp"}

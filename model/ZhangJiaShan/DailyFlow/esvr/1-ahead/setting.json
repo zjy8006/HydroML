@@ -1,0 +1,1 @@
+{"model_path": "D:\\WorkSpace\\MicroServices\\HydroMLForecastModels\\model\\ZhangJiaShan\\DailyFlow\\esvr\\1-ahead\\", "n_calls": 10, "lags": 16, "cast_to_zero": true, "optimizer": "gp"}

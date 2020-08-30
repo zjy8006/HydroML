@@ -1,0 +1,1 @@
+{"model_path": "D:\\WorkSpace\\MicroServices\\HydroMLForecastModels\\model\\WeiJiaBao\\MonthlyRunoff\\ssa-gbrt\\1-ahead\\", "n_calls": 100, "lags": {"S1": 3, "S2": 4, "S3": 3, "S4": 4, "S5": 5, "S6": 4, "S7": 5, "S8": 4, "S9": 5, "S10": 4, "S11": 4, "S12": 5}, "cast_to_zero": true, "optimizer": "gp"}
